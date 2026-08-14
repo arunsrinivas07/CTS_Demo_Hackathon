@@ -1,0 +1,48 @@
+{
+  "final_model": "Gradient Boosting",
+  "implementation": "HistGradientBoostingClassifier",
+  "model_file": "fraud_model_gb.pkl",
+  "threshold": 0.50,
+  "dataset_rows": 5410,
+  "fraud_count": 506,
+  "non_fraud_count": 4904,
+  "fraud_percentage": 9.35,
+  "metrics": {
+    "gradient_boosting": {
+      "name": "Gradient Boosting (Final Model A)",
+      "accuracy": 95.56,
+      "precision": 81.93,
+      "recall": 67.33,
+      "f1_score": 73.91,
+      "roc_auc": 97.08,
+      "pr_auc": 81.42,
+      "is_final": true
+    },
+    "random_forest": {
+      "name": "Random Forest",
+      "accuracy": 92.42,
+      "precision": 56.38,
+      "recall": 83.17,
+      "f1_score": 67.20,
+      "roc_auc": 96.98,
+      "pr_auc": 78.76,
+      "is_final": false
+    },
+    "logistic_regression": {
+      "name": "Logistic Regression",
+      "accuracy": 90.20,
+      "precision": 48.68,
+      "recall": 91.09,
+      "f1_score": 63.45,
+      "roc_auc": 97.24,
+      "pr_auc": 79.75,
+      "is_final": false
+    }
+  },
+  "confusion_matrix": {
+    "tn": 4812,
+    "fp": 92,
+    "fn": 165,
+    "tp": 341
+  }
+}

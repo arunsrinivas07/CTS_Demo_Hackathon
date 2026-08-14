@@ -1,0 +1,26 @@
+[
+  {
+    "report_id": "RPT-2026-001",
+    "report_name": "Q3 Medicare Inpatient Fraud Anomaly Audit",
+    "type": "Investigation Summary",
+    "generated_by": "Dr. Sarah Jenkins (Lead Auditor)",
+    "date": "2026-08-10",
+    "status": "Completed"
+  },
+  {
+    "report_id": "RPT-2026-002",
+    "report_name": "High-Risk Provider Behavior Analysis",
+    "type": "Provider Risk",
+    "generated_by": "System Automated Batch",
+    "date": "2026-08-11",
+    "status": "Completed"
+  },
+  {
+    "report_id": "RPT-2026-003",
+    "report_name": "Beneficiary Claims Clustering Report",
+    "type": "Anomaly",
+    "generated_by": "Alex Morgan (Senior Investigator)",
+    "date": "2026-08-12",
+    "status": "Processing"
+  }
+]

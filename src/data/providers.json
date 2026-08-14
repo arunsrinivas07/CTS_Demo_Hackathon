@@ -1,0 +1,67 @@
+[
+  {
+    "provider_id": "PRV51003",
+    "provider_name": "Metro General Health System",
+    "npi": "1942083921",
+    "total_claims": 248,
+    "avg_claim_amount": 5745.96,
+    "total_reimbursement": 1425000.00,
+    "anomaly_rate": 0.185,
+    "risk_score": 91,
+    "risk_level": "HIGH",
+    "fraud_probability": 0.91,
+    "status": "Escalated"
+  },
+  {
+    "provider_id": "PRV51012",
+    "provider_name": "Apex Surgical Specialists",
+    "npi": "1482910394",
+    "total_claims": 142,
+    "avg_claim_amount": 6267.60,
+    "total_reimbursement": 890000.00,
+    "anomaly_rate": 0.142,
+    "risk_score": 78,
+    "risk_level": "HIGH",
+    "fraud_probability": 0.78,
+    "status": "Under Review"
+  },
+  {
+    "provider_id": "PRV51045",
+    "provider_name": "Valley Care Outpatient Clinic",
+    "npi": "1029384756",
+    "total_claims": 310,
+    "avg_claim_amount": 1112.90,
+    "total_reimbursement": 345000.00,
+    "anomaly_rate": 0.065,
+    "risk_score": 58,
+    "risk_level": "MEDIUM",
+    "fraud_probability": 0.58,
+    "status": "Open"
+  },
+  {
+    "provider_id": "PRV51088",
+    "provider_name": "Horizon Diagnostic Imaging",
+    "npi": "1293847561",
+    "total_claims": 520,
+    "avg_claim_amount": 230.76,
+    "total_reimbursement": 120000.00,
+    "anomaly_rate": 0.012,
+    "risk_score": 24,
+    "risk_level": "LOW",
+    "fraud_probability": 0.24,
+    "status": "Resolved"
+  },
+  {
+    "provider_id": "PRV51102",
+    "provider_name": "Sunrise Rehabilitation Center",
+    "npi": "1839201948",
+    "total_claims": 98,
+    "avg_claim_amount": 19285.71,
+    "total_reimbursement": 1890000.00,
+    "anomaly_rate": 0.224,
+    "risk_score": 94,
+    "risk_level": "HIGH",
+    "fraud_probability": 0.94,
+    "status": "Escalated"
+  }
+]
